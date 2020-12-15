@@ -1,0 +1,30 @@
+.display {
+      background-color: rgba(0,123,255,.25);
+      padding: 15px;
+      width: 280px;
+      text-align: right;
+      font-size: 20px;
+      border-top-left-radius:10px;
+      border-top-right-radius:10px;
+      word-wrap: break-word;
+}
+
+button {
+      padding: 10px;
+      width: 67px;
+      height: 45px;
+      margin-top: 10px;
+      background-color: rgba(0,123,255,.25);
+      color: black;
+      font-size: 20px;
+}
+
+button:hover {
+ cursor: pointer;
+ background-color: #f8f9fa;
+}
+
+button:active {
+ background-color: #f8f9fa;
+}
+
